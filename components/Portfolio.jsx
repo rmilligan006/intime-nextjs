@@ -1,6 +1,5 @@
 import Image from "next/image";
 
-
 const Portfolio = () => {
   return (
     <div className="max-w-[1240px] mx-auto py-16 text-center">
@@ -22,6 +21,7 @@ const Portfolio = () => {
             height="217"
             layout="responsive"
             objectFit="cover"
+            alt="/"
           />
         </div>
         <div className="w-full h-full">
@@ -31,6 +31,7 @@ const Portfolio = () => {
             height="217"
             layout="responsive"
             objectFit="cover"
+            alt="/"
           />
         </div>
         <div className="w-full h-full">
@@ -40,6 +41,7 @@ const Portfolio = () => {
             height="217"
             layout="responsive"
             objectFit="cover"
+            alt="/"
           />
         </div>
         <div className="w-full h-full">
@@ -49,6 +51,7 @@ const Portfolio = () => {
             height="217"
             layout="responsive"
             objectFit="cover"
+            alt="/"
           />
         </div>
       </div>
