@@ -1,4 +1,4 @@
-import React from "react";
+
 import InstagramImg from "./InstagramImg";
 import IgImg1 from "../public/assets/ig-img-1.jpg";
 import IgImg2 from "../public/assets/ig-img-2.jpg";

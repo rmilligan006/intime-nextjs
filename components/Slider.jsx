@@ -1,5 +1,5 @@
 import Image from "next/image";
-import React from "react";
+
 import { useState } from "react";
 import { SliderData } from "./SliderData";
 import { FaArrowCircleLeft, FaArrowCircleRight } from "react-icons/fa";
